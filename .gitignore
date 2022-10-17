@@ -1,0 +1,9 @@
+.gradle
+build/
+allure-results/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
